@@ -17,13 +17,14 @@ export class News extends Component {
         category: PropTypes.string,
       }
 
-    constructor(){
-        super();
+    constructor(props){
+        super(props);
         this.state = {
             articles: [],
             loading: false,
             page:1
         }
+        document.title = `${this.props.category} NewsMonkey`
     }
     async updateNews() {
         let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=6aa1cc2c0722463988b245402edb039b&page=${this.state.page}&pageSize=${this.props.pageSize}`;

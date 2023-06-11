@@ -3,6 +3,7 @@ import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from 'react-infinite-scroll-component';
+
 const News = (props) => {
     const [articles, setArticles] = useState([])
     const [loading, setLoading] = useState(true)
@@ -88,4 +89,4 @@ country: PropTypes.string,
 pageSize: PropTypes.number, 
 category: PropTypes.string,
 }
-export default News ;
+export default News

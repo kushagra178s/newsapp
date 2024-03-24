@@ -1,4 +1,5 @@
 import React from "react";
+import {Link } from "react-router-dom";
 const NewsItem = (props) => {
   let { title, description, imageUrl, newsUrl, author, date, source } = props;
   return (
@@ -14,7 +15,7 @@ const NewsItem = (props) => {
           }}
         >
           <span className="badge rounded-pill bg-danger">
-            {!source ? "NEWZ" : source}
+            {!source ? "" : source}
           </span>
         </div>
 
@@ -25,25 +26,27 @@ const NewsItem = (props) => {
               : imageUrl
           }
           className="card-img-top"
+          height={"215px"}
           alt="...."
         />
         <div className="card-body">
-          <h5 className="card-title">{title} </h5>
-          <p className="card-text">{description}</p>
+          <h5 className="card-title">{title.slice(0,65)}..... </h5>
+          <p className="card-text">{description.slice(0,60)}..... </p>
           <p className="card-text">
             <small className="text-muted">
               By {!author ? "Unknown" : author} on{" "}
               {new Date(date).toGMTString()}
             </small>
           </p>
-          <a
+          {/* <a
             rel="noreferrer"
-            href={newsUrl}
+            // href={newsUrl}
             target="_blank"
             className="btn btn-sm btn-dark"
           >
             Read More
-          </a>
+          </a> */}
+          <Link to = "/fullnews" state={{props : props}} className="btn btn-sm btn-dark">Read More</Link>
         </div>
       </div>
     </div>

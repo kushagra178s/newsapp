@@ -3,19 +3,51 @@ import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import PropTypes from 'prop-types'
 import InfiniteScroll from 'react-infinite-scroll-component';
+import generalNews from "../newsdata/General.json"
+import businessNews from "../newsdata/Business.json"
+import healthNews from "../newsdata/Health.json"
+import scienceNews from "../newsdata/Science.json"
+import sportsNews from "../newsdata/Sports.json"
+import technologyNews from "../newsdata/Technology.json"
+
 const News = (props) => {
+
+    let newsData;
+    if(props.category=="general") {
+        newsData = generalNews;
+    }
+    else if(props.category=="business") {
+        newsData = businessNews;
+    }
+    else if(props.category=="entertainment") {
+        newsData = businessNews
+    }
+    else if(props.category=="health") {
+        newsData = healthNews;
+    }
+    else if(props.category=="science") {
+        newsData = scienceNews;
+    }
+    else if(props.category=="sports") {
+        newsData = sportsNews;
+    }
+    else if(props.category=="technology") {
+        newsData = technologyNews;
+    }
     const [articles, setArticles] = useState([])
     const [loading, setLoading] = useState(true)
     const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
-    const apiKey = '6aa1cc2c0722463988b245402edb039b'
+    const apiKey = ''
     const updateNews = async ()=> {
         props.setProgress(10);
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${apiKey}&page=${page}&pageSize=${props.pageSize}`;
+        // let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${apiKey}&page=${page}&pageSize=${props.pageSize}`;
         setLoading(true)
-        let data = await fetch(url);
+        // let data = await fetch(url);
+        let data = newsData;
         props.setProgress(25);
-        let parsedData = await data.json()
+        // let parsedData = await data.json()
+        let parsedData = data;
         props.setProgress(70);
         console.log(parsedData); 
         setArticles(parsedData.articles);
@@ -40,17 +72,19 @@ const News = (props) => {
     // }
 
     const fetchMoreData = async ( )=> {
-        let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
+        // let url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${apiKey}&page=${page+1}&pageSize=${props.pageSize}`;
         setPage(page+1)
-        let data = await fetch(url);
-        let parsedData = await data.json()
+        // let data = await fetch(url);
+        let data = newsData;
+        // let parsedData = await data.json()
+        let parsedData = data;
         setArticles(articles.concat(parsedData.articles));
         setTotalResults(parsedData.totalResults);
     };
 
         return (
             <>
-                <h1 className="text-center" style={{color:'white', margin: '65px'}}>infoNews - Top {props.category.charAt(0).toUpperCase() + props.category.slice(1)} Headlines Today</h1>
+                <h1 className="text-center" style={{color:'white', margin: '75px'}}>infoNews - Top {props.category.charAt(0).toUpperCase() + props.category.slice(1)} Headlines Today</h1>
                 {/* <br style={{color:'white'}} /> */}
                 {/* {loading && <Spinner/>} */}
                 <InfiniteScroll

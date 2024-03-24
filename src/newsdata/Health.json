@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jocelyn Solis-Moreira",
+      "title": "Seasonal affective disorder: Self-care tips to fight the winter blues - CNN",
+      "description": "Seasonal affective disorder isn’t just about being sad in winter. It’s a type of depression that has to do with the lack of sunlight in late fall and winter.",
+      "url": "https://www.cnn.com/2023/11/12/health/seasonal-affective-disorder-self-care-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1129211268.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-11-12T14:00:00Z",
+      "content": "Sign up for CNNs Sleep, But Better newsletter series. Our seven-part guide has helpful hints to achieve better sleep.\r\nSome people might have looked forward to the extra hour of sleep after Daylight … [+5781 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Emma Lord",
+      "title": "35 Products To Help Make Breakfast Easier And Tastier - BuzzFeed",
+      "description": "It's already the most important meal of the day, but this egg bite maker just made it the most important *moment* of the day.",
+      "url": "https://www.buzzfeed.com/emmalord9/products-breakfast-tasty-easy",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-11/8/15/enhanced/aa453978fc14/original-4670-1699459196-2.jpg?crop=1581:830;0,0%26downsize=1250:*",
+      "publishedAt": "2023-11-12T13:30:03Z",
+      "content": "The donuts cook within minutes, have an auto shutoff to stop them from overheating, and come with a recipe book that even includes gluten-free and Paleo-friendly options. Bonus? You don't even need t… [+689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Dr. Jade Cobern",
+      "title": "Critics say a fumbled rollout of the brand-new RSV shot for babies has pediatricians worried and frustrated - ABC News",
+      "description": "Health official says more supply is coming, but doctors worry it's not enough.",
+      "url": "https://abcnews.go.com/Health/critics-fumbled-rollout-brand-new-rsv-shot-babies/story?id=104815441",
+      "urlToImage": "https://i.abcnewsfe.com/a/fc5381ee-86f5-4cc7-801c-62b561415feb/pediatric-rsv-vaccine-beyfortus-usa-jt-231111_1699738496457_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2023-11-12T11:06:59Z",
+      "content": "Entering what could be another bad RSV season, pediatricians share growing concerns about persistent shortages of a crucial new drug that was touted as a game-changer when approved in July.\r\nRespirat… [+7437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "Alexandra Emanuelli",
+      "title": "The Best Foods To Eat If You're Hungry At Night - HuffPost",
+      "description": "Nutritionists share how to enjoy a healthy midnight snack without destroying your night's sleep.",
+      "url": "https://www.huffpost.com/entry/the-best-foods-to-eat-if-youre-hungry-at-night-goog_l_6536775be4b011a9cf7a6b82",
+      "urlToImage": "https://img.huffingtonpost.com/asset/629a447222000068034f6006.jpeg?cache=IzLuGyYmQ9&ops=1200_630",
+      "publishedAt": "2023-11-12T10:45:26Z",
+      "content": "Its strange to find yourself awake at 3 a.m., when the world is dark, your stomach is grumbling and the kitchen is beckoning. Youre hungry for something. Its not breakfast its not any meal so chips a… [+5473 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Melissa Rudy",
+      "title": "In potential cancer breakthrough, newly found ‘kill switch’ triggers death of cancer cells: ‘One-two punch' - Fox News",
+      "description": "In a health breakthrough, scientists at the UC Davis Comprehensive Cancer Center in Sacramento, California, have identified a protein on the CD95 receptor that can “program\" cancer dells to die.",
+      "url": "https://www.foxnews.com/health/potential-cancer-breakthrough-newly-found-kill-switch-triggers-death-cancer-cells-one-two-punch",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/cancer-patient-with-doctor.jpg",
+      "publishedAt": "2023-11-12T09:30:00Z",
+      "content": "Researchers say they've located a \"kill switch\" that can trigger the death ofcancer cells\r\n.\r\nScientists at the UC Davis Comprehensive Cancer Center in Sacramento, California\r\n, have identified a pro… [+4039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "https://www.facebook.com/kslcom/",
+      "title": "'An ounce of prevention': BYU researchers testing ways to treat PTSD before it happens - KSL.com",
+      "description": "Researchers at BYU are testing drugs that could help pretreat people at risk for post-traumatic stress disorder.",
+      "url": "https://www.ksl.com/article/50784068/an-ounce-of-prevention-byu-researchers-testing-ways-to-treat-ptsd-before-it-happens",
+      "urlToImage": "https://img.ksl.com/slc/2588/258851/25885184.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2023-11-12T03:21:35Z",
+      "content": "Estimated read time: 3-4\r\n minutes\r\nPROVO Researchers at BYU are testing the use of drugs that could help pretreat people at risk for post-traumatic stress disorder.\r\nNeuroscience professor Jeff Edwa… [+2973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "East Idaho News"
+      },
+      "author": null,
+      "title": "Breast implants save life of man with severe lung damage - East Idaho News",
+      "description": "(CNN) — When 34-year-old Davey Bauer’s lungs stopped working, doctors turned to an unusual ﻿tool to help keep him alive: large breast implants. Experts say it was an innovative solution to give Bauer’s body time to fight off a nasty infection so it could acce…",
+      "url": "https://www.eastidahonews.com/2023/11/breast-implants-save-life-of-man-with-severe-lung-damage/",
+      "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2023/11/breast-implants-operation.jpg",
+      "publishedAt": "2023-11-12T02:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Mind-Body Link Exposed: Unraveling the Physical Costs of Mental Disorders - SciTechDaily",
+      "description": "Psychiatric patients almost twice as likely to have multiple physical ailments – new study. A new study, conducted by Anglia Ruskin University (ARU) in collaboration with the University of Cambridge’s Biomedical Research Centre, has revealed significant findi…",
+      "url": "https://scitechdaily.com/mind-body-link-exposed-unraveling-the-physical-costs-of-mental-disorders/",
+      "urlToImage": "https://scitechdaily.com/images/Mental-Physical-Health-Link-Art-Concept.jpg",
+      "publishedAt": "2023-11-11T22:39:52Z",
+      "content": "A comprehensive study by Anglia Ruskin University and the University of Cambridge found that psychiatric patients are significantly more likely to suffer from multiple physical health conditions, emp… [+3281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "A Neural Blueprint for Depression - Neuroscience News",
+      "description": null,
+      "url": "https://neurosciencenews.com/depression-blueprint-25199/",
+      "urlToImage": null,
+      "publishedAt": "2023-11-11T22:21:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Eduardo Cuevas",
+      "title": "Tuberculosis in Omaha: Westview YMCA had active case. 500 kids exposed - USA TODAY",
+      "description": "It's not unusual to have tuberculosis cases, the county's top health official said. But the possible exposures at the Omaha daycare are unusual.",
+      "url": "https://www.usatoday.com/story/news/health/2023/11/11/tuberculosis-omaha-westview-ymca/71548149007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/19/PIND/71242374007-101823-sf-sst-nichola-searly-learning-kmw-012.JPG?crop=3599,2025,x0,y185&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2023-11-11T21:33:49Z",
+      "content": "Officials in Nebraska are testing more than 500 children and staff at an Omaha area YMCA drop-in daycare center for possible exposure to tuberculosis after a case at the site prompted a public health… [+4654 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sara Moniuszko",
+      "title": "High blood pressure? Reducing salt in your diet may be as effective as a common drug, study finds - CBS News",
+      "description": "According to new research, for many people a low-sodium diet may be as effective as taking a common blood pressure medication.",
+      "url": "https://www.cbsnews.com/news/high-blood-pressure-salt-diet-study/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/11/06/432c6768-ecfc-4766-ab31-f20a6f183804/thumbnail/1200x630/a7c795c87b1734c0d9d6443bc94ea995/gettyimages-1182718370-1.jpg?v=8afad5e29ac9a704fff9d98ba34d3649",
+      "publishedAt": "2023-11-11T20:45:02Z",
+      "content": "Want to lower your blood pressure? Cutting back on salt in your diet could help do just that — and according to new research, for many people it may be as effective as taking a common blood pressure … [+2135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Ashleigh Jackson",
+      "title": "These 8 habits may help you live longer - KTLA Los Angeles",
+      "description": "Aging is inevitable, but you might be able to slow down the process with some healthy lifestyle changes.  That’s according to a new study presented Monday at the American Heart Society’s Scientific Sessions 2023 in Philadelphia. Scientists pointed to eight he…",
+      "url": "https://ktla.com/news/want-to-live-longer-these-8-habits-may-reduce-your-biological-age-study-says/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/11/GettyImages-1072677148-e1699565665420.jpg?w=1280",
+      "publishedAt": "2023-11-11T20:05:02Z",
+      "content": "Aging is inevitable, but you might be able to slow down the process with some healthy lifestyle changes. \r\nThat’s according to a new study presented Monday at the American Heart Society’s Scientific … [+3436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Amanda Chatel",
+      "title": "Why Men Suffer From Lovesickness More Than Women - YourTango",
+      "description": "Going through a heartbreak can offset anyone for a while. Here's the research behind why men may be the ones who lose more when it comes to love.",
+      "url": "https://www.yourtango.com/heartbreak/breakup-men-suffer-love-sickness-more-women",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/breakup-men-suffer-love-sickness-more-women.png",
+      "publishedAt": "2023-11-11T19:52:30Z",
+      "content": "The biggest problem with love is that sometimes it doesn't last. When love comes to an end, the effects of losing that person are devastating. There's nothing more painful than losing the person you … [+3478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jamanetwork.com"
+      },
+      "author": "Mandeep R. Mehra, MBBS, MSc",
+      "title": "Aspirin and Hemocompatibility Events With an LVAD in Advanced Heart Failure - JAMA Network",
+      "description": "This randomized clinical trial examines the safety of the exclusion of aspirin as part of an antithrombotic regimen including a vitamin K antagonist with a fully magnetically levitated left ventricular assist device.",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2811936",
+      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi230137va_1699476739.68101.png?Expires=2147483647&Signature=1SkwV0mF8d1mH0bGcQAJXirfQ4CXKCEZLjYTBMmdwTNCjkEn44UeIbC8LMv~gg8U5aWULMtzpKg9EDq7bUe7Qp4P7wG9Foomv5ltNaiTv0j24ioMNUrB49Y2-8tkc6vXnXpK2mFdU1b4FNcbibb0ZP55YJxxkDx5UWRsWAmp44JtSpkN6fKL2ra7xPD5UjSEFXeFdXlVtyIIaYxcQdB8jkRrL8S8r8R43p6Gkk3wzJjduAnchC8tTgyutKGnKE8avuyFN5ztD0exGOvZfiGJBWkA8rHDz0DxeNGiwV56h-HixUbftTyNvosKbyWe3OYjC85kMRZ30FnRUHsN9iYvAA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "publishedAt": "2023-11-11T18:36:32Z",
+      "content": "Key PointsQuestion \r\n Can aspirin be safely avoided as part of an antithrombotic regimen including a vitamin K antagonist with a fully magnetically levitated left ventricular assist device (LVAD), an… [+36285 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TIMESOFINDIA.COM",
+      "title": "5 shocking reasons behind hypertension seen in women - IndiaTimes",
+      "description": "There is a global prevalence of hypertension, particularly among women, and identifies five surprising reasons behind it.  The article emphasizes lifestyle changes and preventive measures to take control of cardiovascular health. It encourages a holistic appr…",
+      "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/5-shocking-reasons-behind-hypertension-seen-in-women/photostory/105102871.cms",
+      "urlToImage": "https://static.toiimg.com/photo/105102897.cms",
+      "publishedAt": "2023-11-11T18:30:00Z",
+      "content": "In global health, hypertension emerges as a prevalent concern, affecting almost 1.28 billion adults aged 30–79 years, as per World Health Organisation. However, what makes this statistic even more no… [+341 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Robyn White",
+      "title": "Neuroscientists Discover New Link in Sleep Disruption and Memory - Newsweek",
+      "description": "Scientists have found that a chronic lack of sleep can lead to poor performance when learning new tasks.",
+      "url": "https://www.newsweek.com/neuroscientists-discover-new-link-sleep-disruption-memory-1842741",
+      "urlToImage": "https://d.newsweek.com/en/full/2307598/sleepless-night.jpg",
+      "publishedAt": "2023-11-11T17:00:02Z",
+      "content": "A bad night's sleep can make anyone a bit forgetful, but neuroscientists have now discovered a new link between the amount of sleep we get a night, and memory retention.\r\nIn new research, set to be p… [+3981 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Robyn White",
+      "title": "Brain Scans Reveal How COVID Pandemic Affected Teenagers - Newsweek",
+      "description": "At a time when mental health among teenagers was already declining, scientists have recorded how the pandemic may have made things even worse.",
+      "url": "https://www.newsweek.com/brain-scans-reveal-covid-pandemic-teenagers-1842655",
+      "urlToImage": "https://d.newsweek.com/en/full/2307439/sad-teen.jpg",
+      "publishedAt": "2023-11-11T17:00:01Z",
+      "content": "Brain scans have revealed just how the COVID-19 pandemic impacted teenagers' mental health.\r\nAt a time when mental health among teenagers was already declining, scientists have recorded just how the … [+3304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOIN.com"
+      },
+      "author": "Jashayla Pettigrew",
+      "title": "What Portland-area dog owners should know about the canine respiratory disease - KOIN.com",
+      "description": "The Oregon Veterinary Medical Association told dog owners to exercise “caution rather than worry”",
+      "url": "https://www.koin.com/news/animals/what-portland-area-dog-owners-should-know-about-the-canine-respiratory-disease/",
+      "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2023/08/generic-dog-at-the-vet-08122023.jpg?w=1280",
+      "publishedAt": "2023-11-11T16:30:00Z",
+      "content": "The Oregon Veterinary Medical Association told dog owners to exercise caution rather than worry\"PORTLAND, Ore. (KOIN) Veterinary researchers have warned dog owners not to panic over the respiratory d… [+1377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rutherford Daily Voice"
+      },
+      "author": "Joe Lombardi",
+      "title": "COVID-19: Here Are Symptoms For New Variant That's Now Most Dominant In US - Daily Voice",
+      "description": "A new COVID-19 variant has quickly become the most dominant in the nation just as respiratory virus season arrives. \nAccording to the latest data from the Centers for Disease Control and Prevention (…",
+      "url": "https://dailyvoice.com/new-york/nassau/covid-19-here-are-symptoms-for-brand-new-variant-thats-now-most-dominant-strain-in-us/",
+      "urlToImage": "https://cdn.dailyvoice.com/image/upload/c_limit,e_sharpen,q_auto:eco,w_640/viktor-forgacs-FcDqdJUM6B4-unsplash_cq5ujr.jpg",
+      "publishedAt": "2023-11-11T16:17:00Z",
+      "content": "According to the latest data from the Centers for Disease Control and Prevention (CDC), HV.1 now makes up 25.2 percent of COVID cases in the US, just ahead of the EG.5 variant (21.9 percent).\r\nThe EG… [+650 chars]"
+    }
+  ]
+}

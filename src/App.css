@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.fullnews {
+  width: 60%;
+  color: white;
+  margin :6% 2%;
+  /* text-align: center; */
+  justify-content: center;   
+}
+.image-container{
+  /* border:2px solid red; */
+}
+.image-container>img{
+  width: 100%;
+  border-radius: 10px;
+}
+.data{
+  margin-top: 2%;
+  display:flex;
+  flex-direction: column;
+  gap: 10px;
+  a{
+    width: 20%;
+  }
+}
